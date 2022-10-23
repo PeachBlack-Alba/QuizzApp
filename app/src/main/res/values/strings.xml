@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Udacity_QuizzApp</string><string name="_name">Your Name</string>
+    <string name="_hello">\"Hello \"</string>
+    <string name="submit">Enter Name</string>
+    <string name="question1">1) Which two are program Languages?</string>
+    <string name="phython">Phython</string>
+    <string name="question4">4) DBSM is short for Data Base Sytems Manager.</string>
+    <string name="question5">5) Which tho of the following computer software are used in Graphic Design?</string>
+    <string name="javascript">JavaScript</string>
+    <string name="html">HTML</string>
+    <string name="ui_ux">UI/UX</string>
+    <string name="question2">2) Which two of the following are types of Databases?</string>
+    <string name="_SQL">SQL</string>
+    <string name="_Spreadsheets">Spreadsheet Database</string>
+    <string name="_answer">Answer</string>
+    <string name="_3">3)</string>
+    <string name="photoshop">Photoshop</string>
+    <string name="desktop_publishing">Desktop publishing</string>
+    <string name="spreadsheets">Spreadsheets</string>
+    <string name="illustration_software">Illustration software</string>
+
+    <string name="finished">finished</string>
+    <string name="adobe_xd">Adobe XD</string>
+    <string name="illustrator">Illustrator</string>
+    <string name="reset_test">reset</string>
+    <string name="submit_test">submit</string>
+    <string name="dbms">DBMS</string>
+    <string name="point_db">PointDatabase</string>
+    <string name="nosql_database">NoSQLDatabase</string>
+    <string name="enterprise_database">Enterprise Database</string>
+    <string name="onsubmit">Submit</string>
+    <string name="oprational_db">Operational Database</string>
+    <string name="no_sql">NO_SQL</string>
+    <string name="_false">false</string>
+    <string name="_true">true</string>
+
+</resources>

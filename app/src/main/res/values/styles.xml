@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="header">
+        <item name="android:textColor">#E9BCB7</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:text">basic computer quiz</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="customTextQuestion">
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#06070E</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="greeting">
+        <item name="android:textColor">#94A187</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="checkBox">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#E9BCB7</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">200dp</item>
+        <item name="paddingStart">8dp</item>
+    </style>
+
+    <style name="customTextQuestion3a">
+
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#06070E</item>
+        <item name="android:text">3)</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="customTextQuestion3b">
+
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#06070E</item>
+        <item name="android:text">is the process</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="customTextQuestion3c">
+
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#06070E</item>
+        <item name="android:text">of achieving a goal by overcoming obstacles in software
+            engineering.
+        </item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="_finalScore">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">24sp</item>
+        <item name="textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#C1F3450F</item>
+    </style>
+</resources>
